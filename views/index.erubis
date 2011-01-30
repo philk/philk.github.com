@@ -5,12 +5,6 @@
     <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
   </head>
   <body>
-    <% if defined? formats && formats %>
-      <div id='formats'>
-        Formats: <a href="/">HTML</a> | <a href='markdown'>Markdown</a>
-      </div>
-    <% end %>
-
     <div id="resume">
       <%= resume %>
     </div>
