@@ -8,7 +8,7 @@ Fremont, CA 94538
 
 What I Want
 -----------
-I’m looking for a company with a fanatical devotion to being awesome.  I want to work for a company that wants to do great things and do them incredibly well.
+I'm looking for a company with a fanatical devotion to being awesome.  I want to work for a company that wants to do great things and do them incredibly well.
 
 What I Offer
 ----------------
@@ -19,15 +19,15 @@ In my first tech job as a consultant, I was responsible for developing effective
 
 #### Excitement for trying new things.
 
-It’s very rare to find me not tinkering with some new gadget, tech, or tool. That passion is what helps me get more done than someone who feels it’s just another job.
+It's very rare to find me not tinkering with some new gadget, tech, or tool. That passion is what helps me get more done than someone who feels it's just another job.
 
 #### Programming knowledge.
 
-I’ve been programming as a hobby since I was a teenager (TI-86 BASIC). My knowledge of Ruby, Python, Obj-C, and other languages keeps me from having to do the same thing over and over again and keeps me from being bored because there's an endless supply of things to learn.
+I've been programming as a hobby since I was a teenager (TI-86 BASIC). My knowledge of Ruby, Python, Obj-C, and other languages keeps me from having to do the same thing over and over again and keeps me from being bored because there's an endless supply of things to learn.
 
 #### Extensive software knowledge.
 
-I have used or set up numerous different configurations in my professional career including Microsoft Dynamics GP, MISYS, Quickbooks, Microsoft Office, Microsoft SQL Server, Microsoft Exchange, Asterisk, Apache, Nginx, MySQL, Tomcat, and many others. I’ve experimented with even more where I haven’t yet had a need or chance to implement them in a professionally.
+I have used or set up numerous different configurations in my professional career including Microsoft Dynamics GP, MISYS, Quickbooks, Microsoft Office, Microsoft SQL Server, Microsoft Exchange, Asterisk, Apache, Nginx, MySQL, Tomcat, and many others. I've experimented with even more where I haven't yet had a need or chance to implement them in a professionally.
 
 #### Excellent communication skills
 
