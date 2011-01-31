@@ -100,6 +100,7 @@ Skills
   * Javascript (JQuery)
   * Amazon Web Services (EC2, RDS, S3, SES, CloudWatch)
   * Nginx and Apache
+  * Tomcat
   * MySQL
   * Microsoft SQL Server
   * MongoDB
