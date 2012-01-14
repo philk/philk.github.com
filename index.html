@@ -6,13 +6,16 @@
   </head>
   <body>
     <div id="resume">
-      <p>Phil Kates<br/>
-<a href="mailto:me@philkates.com">me@philkates.com</a><br/>
-772-237-1337<br/>
-Fremont, CA 94538</p>
+      <h1>Phil Kates</h1>
 
-<p><a href="http://github.com/philk">GitHub</a><br/>
-<a href="http://philkates.com">Blog</a></p>
+<ul>
+<li><a href="mailto:me@philkates.com">me@philkates.com</a></li>
+<li>772-237-1337</li>
+<li>South San Francisco, CA 94080</li>
+<li><a href="http://github.com/philk">GitHub</a></li>
+<li><a href="http://philkates.com">Blog</a></li>
+</ul>
+
 
 <h2>What I Want</h2>
 
@@ -22,21 +25,21 @@ Fremont, CA 94538</p>
 
 <h2>What I Offer</h2>
 
-<h4>Excellent problem solving and trouble shooting skills.</h4>
+<h4>I love distributed systems and config management.</h4>
 
-<p>In my first tech job as a consultant, I was responsible for developing effective solutions for clients to get their business back up and running as quickly as possible. Usually this meant going into a company I&rsquo;d never been in, talking to people I&rsquo;d never met, and working on systems I&rsquo;d never seen and then making everything come out good, fast, and cheap (because no one likes having to pick just two).</p>
+<p>Using tools like Chef, Puppet, or CFEngine to automate large scale systems is so cool. I love that it&rsquo;s not just Google or Facebook that can create ridiculously fast and reliable infrastructures. A single admin can manage hundreds or even thousands of systems now with way less stress than we used to have to deal with.</p>
 
 <h4>Excitement for trying new things.</h4>
 
 <p>It&rsquo;s very rare to find me not tinkering with some new gadget, tech, or tool. That passion is what helps me get more done than someone who feels it&rsquo;s just another job.</p>
 
+<h4>Excellent problem solving and trouble shooting skills.</h4>
+
+<p>In my first tech job as a consultant, I was responsible for developing effective solutions for clients to get their business back up and running as quickly as possible. Usually this meant going into a company I&rsquo;d never been in, talking to people I&rsquo;d never met, and working on systems I&rsquo;d never seen and then making everything come out good, fast, and cheap (because no one likes having to pick just two).</p>
+
 <h4>Programming knowledge.</h4>
 
 <p>I&rsquo;ve been programming as a hobby since I was a teenager (TI-86 BASIC). My knowledge of Ruby, Python, Obj-C, and other languages keeps me from having to do the same thing over and over again and keeps me from being bored because there&rsquo;s an endless supply of things to learn.</p>
-
-<h4>Extensive software knowledge.</h4>
-
-<p>I have used or set up numerous different configurations in my professional career including Microsoft Dynamics GP, MISYS, Quickbooks, Microsoft Office, Microsoft SQL Server, Microsoft Exchange, Asterisk, Apache, Nginx, MySQL, Tomcat, and many others. I&rsquo;ve experimented with even more where I haven&rsquo;t yet had a need or chance to implement them in a professionally.</p>
 
 <h4>Excellent communication skills</h4>
 
@@ -46,20 +49,37 @@ Fremont, CA 94538</p>
 
 <h2>Work Experience</h2>
 
+<h3>Rackspace Managed Hosting</h3>
+
+<p>Linux Operations Admin II<br/>
+San Francisco, CA<br/>
+March 2011 &ndash; Present</p>
+
+<p>I joined <a href="http://rackspace.com">Rackspace</a> very soon after their acquisition of <a href="http://cloudkick.com">Cloudkick</a>. I was brought on to help support the existing Cloudkick product as well as help set up Chef for future projects such as the recently (beta) launched Cloud Monitoring project.</p>
+
+<ul>
+<li>Migrate Cloudkick from Slicehost to Rackspace Cloud.</li>
+<li>Work with developers to diagnose and eliminate bugs in Cloudkick, leading to reduced support load.</li>
+<li>Lead the initial setup of Chef/Vagrant images for developer and staging environments.</li>
+<li>Work on centralizing logging infrastructure for multiple projects.</li>
+<li>Web Operations lead for a currently unannounced project based on Cloudkick technology.</li>
+</ul>
+
+
 <h3>LeapFILE/Oxygen Cloud</h3>
 
 <p>Technical Solutions Engineer >> Technical Operations Manager<br/>
 Newark, CA<br/>
-July 2010 &ndash; Present</p>
+July 2010 &ndash; March 2011</p>
 
-<p><a href="http://www.leapfile.com">LeapFILE</a> is a large file transfer service. <a href="http://oxygencloud.com">Oxygen Cloud</a> is a cloud storage startup. I came out in July of 2010 for a mid-level Technical Support position and used my sysadmin experience to work my way into an operations position.</p>
+<p><a href="http://www.leapfile.com">LeapFILE</a> is a large file transfer service. <a href="http://oxygencloud.com">Oxygen Cloud</a> is a cloud storage startup. I joined in July of 2010 for a mid-level Technical Support position and used my sysadmin experience to work my way into an operations position.</p>
 
 <ul>
-<li>Handle end-user product support for LeapFILE product while migrating legacy LeapFILE system to upgraded servers.</li>
-<li>Increase performance and system reliability by setting up Apache&rsquo;s mod_proxy_ajp to load balance between Tomcat backends.</li>
-<li>Setup monitoring and alerting using Cacti and Nagios.</li>
-<li>Use Chef to automate deployment and configuration setup for new Oxygen Cloud architecture.</li>
-<li>Write web based user signup process for Oxygen Cloud using Padrino (prototyped in Sinatra). Thrift APIs are used to communicate to the Java (Tomcat) backend.</li>
+<li>Handled end-user product support for LeapFILE product while migrating legacy LeapFILE system to upgraded servers.</li>
+<li>Increased performance and system reliability by setting up Apache&rsquo;s mod_proxy_ajp to load balance between Tomcat backends.</li>
+<li>Set up monitoring and alerting using Cacti and Nagios.</li>
+<li>Used Chef to automate deployment and configuration setup for new Oxygen Cloud architecture.</li>
+<li>Wrote web based user signup process for Oxygen Cloud using Padrino (prototyped in Sinatra). Thrift APIs were used to communicate to the Java (Tomcat) backend service.</li>
 </ul>
 
 
@@ -107,30 +127,29 @@ Jensen Beach, FL</p>
 
 <ul>
 <li>Sinatra</li>
-<li>Padrino</li>
-<li>Sequel</li>
+<li>EventMachine</li>
 <li>Rails</li>
+</ul>
+</li>
+<li><p>Python</p>
+
+<ul>
+<li>Flask</li>
+<li>Twisted</li>
+<li>Django</li>
 </ul>
 </li>
 <li><p>Tools</p>
 
 <ul>
 <li>Linux</li>
-<li>OS X</li>
-<li>Windows XP/Vista/7</li>
-<li>Windows Server 2000/2003</li>
-<li>Active Directory and Group Policy</li>
-<li>HTML5 / CSS3</li>
-<li>Javascript (JQuery)</li>
-<li>Amazon Web Services (EC2, RDS, S3, SES, CloudWatch)</li>
-<li>Nginx and Apache</li>
-<li>Tomcat</li>
-<li>MySQL</li>
-<li>Microsoft SQL Server</li>
-<li>MongoDB</li>
-<li>CouchDB</li>
-<li>VIM (Just Say No to Emacs)</li>
-<li>Misc REST API&rsquo;s</li>
+<li>OSX</li>
+<li>vim and zsh <a href="http://github.com/philk/dotfiles">fanboy</a></li>
+<li>AWS and Rackspace Cloud</li>
+<li>Nginx, Apache, and Tomcat</li>
+<li>MySQL and Percona</li>
+<li>Cassandra, Redis, and CouchDB</li>
+<li>Microsoft SQL Server and Exchange</li>
 </ul>
 </li>
 <li><p>Style</p>
