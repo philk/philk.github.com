@@ -10,7 +10,7 @@
     </div>
 
     <div id="footer">
-      This resume is Ruby, powered by <a href="http://github.com/danmayer/Resume">Ruby Resume</a>.
+      This resume is made by <a href="https://github.com/philk/philk.github.com">Ruby Resume</a>.
     </div>
   </body>
 </html>
