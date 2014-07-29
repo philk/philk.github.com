@@ -1,55 +1,32 @@
-#Phil Kates  
+#Phil Kates
+## DevOps Engineer, Systems Administration
+
 - [me@philkates.com](mailto:me@philkates.com)  
 - 772-237-1337  
-- South San Francisco, CA 94080  
+- Oakland, CA 94612  
 - [GitHub](http://github.com/philk)  
-- [Blog](http://philkates.com)  
 
-What I Want
+About Me
 -----------
-I'm looking for a company with a fanatical devotion to being awesome.  I want to work for a company that wants to do great things and do them incredibly well.
+
+I'm a Systems Administrator / Ops Engineer / Tools Engineer / DevOps / whatever we're calling ourselves these days with more than 10 years experience across a ton of both terribly and wonderfully written systems. My mission is to work on awesome products with an awesome team. I love to work with developers to build the tools and infrastructure they need to build, test, deploy, and debug awesome stuff as fast as humanly possible.
 
 * * *
 
-What I Offer
-----------------
-
-#### I love distributed systems and config management.
-
-Using tools like Chef, Puppet, or CFEngine to automate large scale systems is so cool. I love that it's not just Google or Facebook that can create ridiculously fast and reliable infrastructures. A single admin can manage hundreds or even thousands of systems now with way less stress than we used to have to deal with.
-
-#### Excitement for trying new things.
-
-It's very rare to find me not tinkering with some new gadget, tech, or tool. That passion is what helps me get more done than someone who feels it's just another job.
-
-#### Excellent problem solving and trouble shooting skills.
-
-In my first tech job as a consultant, I was responsible for developing effective solutions for clients to get their business back up and running as quickly as possible. Usually this meant going into a company I'd never been in, talking to people I'd never met, and working on systems I'd never seen and then making everything come out good, fast, and cheap (because no one likes having to pick just two).
-
-#### Programming knowledge.
-
-I've been programming as a hobby since I was a teenager (TI-86 BASIC). My knowledge of Ruby, Python, Obj-C, and other languages keeps me from having to do the same thing over and over again and keeps me from being bored because there's an endless supply of things to learn.
-
-#### Excellent communication skills
-
-Often what people are asking for and what they're saying are two very different things (especially in tech). My years of experience as both a sysadmin and a consultant have heightened my ability to figure out what people are _really_ asking for.
-
-* * *
-
-Work Experience
+Experience
 ---------------
-### Rackspace Managed Hosting
-Linux Operations Admin II  
+### Rackspace Hosting
+Linux Systems Engineer II  
 San Francisco, CA  
 March 2011 - Present  
 
-I joined [Rackspace](http://rackspace.com) very soon after their acquisition of [Cloudkick](http://cloudkick.com). I was brought on to help support the existing Cloudkick product as well as help set up Chef for future projects such as the recently (beta) launched Cloud Monitoring project.
+I joined [Rackspace](http://rackspace.com) very soon after their acquisition of [Cloudkick](http://cloudkick.com). I was brought on to help support the existing Cloudkick product as well as help set up Chef for future projects such as Cloud Monitoring and the Cloud Control Panel. I'm currently maintaining the Auto Scale product and working to make centralized logging available (via logstash and some other bits) to any team that wants it.
 
-* Migrate Cloudkick from Slicehost to Rackspace Cloud.
-* Work with developers to diagnose and eliminate bugs in Cloudkick, leading to reduced support load.
+* Migrated Cloudkick infrastructure from Slicehost to Rackspace Cloud.
+* Worked with developers to diagnose and eliminate bugs in Cloudkick, leading to reduced support load.
 * Lead the initial setup of Chef/Vagrant images for developer and staging environments.
-* Work on centralizing logging infrastructure for multiple projects.
-* Web Operations lead for a currently unannounced project based on Cloudkick technology.
+* Built out automation systems and infrastructure for Cloud Control Panel and Auto Scale projects.
+* Designed and built centralizing logging infrastructure for multiple projects using Logstash and Elasticsearch.
 
 ### LeapFILE/Oxygen Cloud
 Technical Solutions Engineer >> Technical Operations Manager  
@@ -74,7 +51,7 @@ July 2006 - June 2010
 * Helped end-users with day to day technical issues.
 * Setup and maintained Active Directory configuration using Group Policy for software installs and configuration.
 * Maintained [Microsoft Dynamics GP](http://www.microsoft.com/en-us/dynamics/products/gp-overview.aspx) system in spite of Microsoft's best attempts to destroy the data at every turn.
-* Wrote numerous reports using SQL and/or Ruby to extract data from GP. I'm particularly proud of a recursive query using Common Table Expressions that I had to write because the built in Bill of Materials report was useless.
+* Wrote numerous reports using SQL and/or Ruby to extract data from GP.
 * Used Sinatra to work around various limitations in GP and provide better visibility into company data.
 * Used Ruby to automate various processes that were manual in GP such as inventory cost rollups and catalog generation.
 
@@ -113,13 +90,12 @@ Skills
   * AWS and Rackspace Cloud
   * Nginx, Apache, and Tomcat
   * MySQL and Percona
-  * Cassandra, Redis, and CouchDB
-  * Microsoft SQL Server and Exchange
+  * Logstash
+  * Cassandra, Redis, and Elasticsearch
 
 * Style
   * Sysadmin who programs; programmer who sysadmins
   * Cynic...but the loveable kind
-  * Always be <strike>closing</strike> improving!
   * Voracious reader
   * Giant nerd (metaphorically)
 
