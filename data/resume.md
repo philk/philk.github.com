@@ -9,7 +9,7 @@
 About Me
 -----------
 
-I'm a Systems Administrator / Ops Engineer / Tools Engineer / DevOps / whatever we're calling ourselves these days with more than 10 years experience across a ton of both terribly and wonderfully written systems. My mission is to work on awesome products with an awesome team. I love to work with developers to build the tools and infrastructure they need to build, test, deploy, and debug awesome stuff as fast as humanly possible.
+I'm a Systems Administrator / Ops Engineer / Tools Engineer / DevOps / whatever we're calling ourselves these days with more than 10 years experience across a ton of both terribly and wonderfully written systems. My mission is to work with a fun, passionate team to make products that people love. I love working with developers to build the tools and infrastructure they need to build, test, deploy, and debug awesome stuff as fast as humanly possible.
 
 * * *
 
