@@ -9,7 +9,7 @@
 About Me
 -----------
 
-I'm a Systems Administrator / Ops Engineer / Tools Engineer / DevOps / whatever we're calling ourselves these days with more than 10 years experience across a ton of both terribly and wonderfully written systems. My mission is to work with a fun, passionate team to make products that people love. I love working with developers to build the tools and infrastructure they need to build, test, deploy, and debug awesome stuff as fast as humanly possible.
+I'm a Systems Administrator / Ops Engineer / Tools Engineer / DevOps / whatever we're calling ourselves these days with more than 10 years experience across a wide variety of systems and softare. My mission is to work with a fun, passionate team to make products that people love. I love working with developers to build the tools and infrastructure they need to build, test, deploy, and debug awesome stuff as fast as humanly possible.
 
 * * *
 
@@ -33,7 +33,7 @@ Technical Solutions Engineer >> Technical Operations Manager
 Newark, CA  
 July 2010 - March 2011  
 
-[LeapFILE](http://www.leapfile.com) is a large file transfer service. [Oxygen Cloud](http://oxygencloud.com) is a cloud storage startup. I joined in July of 2010 for a mid-level Technical Support position and used my sysadmin experience to work my way into an operations position.
+[LeapFILE](http://www.leapfile.com) is a large file transfer service. [Oxygen Cloud](http://oxygencloud.com) is a cloud storage startup. They were a combined startup (LeapFILE was bootstrapping Oxygen Cloud). I joined in July of 2010 for a mid-level Technical Support position and used my sysadmin experience to work my way up to the lead operations position.
 
 * Handled end-user product support for LeapFILE product while migrating legacy LeapFILE system to upgraded servers.
 * Increased performance and system reliability by setting up Apache's mod_proxy_ajp to load balance between Tomcat backends.
@@ -50,7 +50,7 @@ July 2006 - June 2010
 
 * Helped end-users with day to day technical issues.
 * Setup and maintained Active Directory configuration using Group Policy for software installs and configuration.
-* Maintained [Microsoft Dynamics GP](http://www.microsoft.com/en-us/dynamics/products/gp-overview.aspx) system in spite of Microsoft's best attempts to destroy the data at every turn.
+* Maintained [Microsoft Dynamics GP](http://www.microsoft.com/en-us/dynamics/products/gp-overview.aspx). Used for all the company's CRM and ERP purposes.
 * Wrote numerous reports using SQL and/or Ruby to extract data from GP.
 * Used Sinatra to work around various limitations in GP and provide better visibility into company data.
 * Used Ruby to automate various processes that were manual in GP such as inventory cost rollups and catalog generation.
@@ -60,10 +60,10 @@ Field Technician >> Senior Technican
 2001 - July 2006  
 Jensen Beach, FL  
 
-[Stevens and Stevens](http://stevensandstevens.com/) is a small computer consulting company operating out of the Jensen Beach, FL area. I started at this job while still in college and learned a huge amount rapidly.
+[Stevens and Stevens](http://stevensandstevens.com/) is a computer consulting company operating out of the Jensen Beach, FL area. I started at this job while still in college and learned a huge amount rapidly. Eventually progressing to be the Senior Technician at the company.
 
-* Setup new workstations by installing and configuring all required software. Often this included software I'd never seen before and had to learn the quirks of very quickly.
-* Diagnosed end-user problems quickly and effectively. Pointed out when it was user error in the most polite manner possible or came up with workarounds for poorly written vertical market software packages (of which Point of Sale systems are the worst).
+* Setup new workstations by installing and configuring all required software.
+* Diagnosed end-user problems quickly and effectively.
 * Took stock of a each client's network and made recommendations to improve their productivity and reliability.
 * Planned and implemented Active Directory setups for small-businesses becoming medium businesses.
 * Planned server migrations to take place in the most effective manner possible to limit downtime.
